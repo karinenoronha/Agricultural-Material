@@ -1,8 +1,8 @@
 # Agricultural-Material
 
-# 🌾 Agricultural Raw Materials Price Analysis (1990–2020)
+#  Agricultural Raw Materials Price Analysis (1990–2020)
 
-## 📌 Overview
+##  Overview
 This project explores agricultural raw material prices from 1990 to 2020 using a Kaggle dataset.
 
 The goal is to understand price behavior, volatility, and relationships between different raw materials over time.
@@ -12,7 +12,7 @@ https://www.kaggle.com/datasets/kianwee/agricultural-raw-material-prices-1990202
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze long-term price trends of agricultural raw materials  
 - Identify low and high-priced commodities  
 - Measure price volatility using percentage change  
@@ -21,17 +21,17 @@ https://www.kaggle.com/datasets/kianwee/agricultural-raw-material-prices-1990202
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
-- 🌱 Cotton is the lowest-priced raw material over the years  
-- 🌲 Soft sawn timber shows the highest price variation (>60%)  
-- 📉 Plywood shows the lowest variation (<20%)  
-- 🧺 Fine wool and hardwood logs show strong price fluctuations  
-- 📊 Clear grouping exists between low and high-priced materials  
+-  Cotton is the lowest-priced raw material over the years  
+-  Soft sawn timber shows the highest price variation (>60%)  
+-  Plywood shows the lowest variation (<20%)  
+-  Fine wool and hardwood logs show strong price fluctuations  
+-  Clear grouping exists between low and high-priced materials  
 
 ---
 
-## 📈 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 The analysis includes:
 
@@ -43,9 +43,9 @@ The analysis includes:
 
 ---
 
-## 📦 Price Classification
+##  Price Classification
 
-### 💰 Low-priced materials:
+###  Low-priced materials:
 - Cotton  
 - Leather  
 - Soft logs  
@@ -53,7 +53,7 @@ The analysis includes:
 - Soft sawn timber  
 - Rubber  
 
-### 💎 High-priced materials:
+###  High-priced materials:
 - Coarse wool  
 - Copra  
 - Fine wool  
@@ -63,7 +63,7 @@ The analysis includes:
 
 ---
 
-## 🔬 Statistical Concepts Used
+##  Statistical Concepts Used
 
 - Mean, median, quartiles (Q1, Q3)  
 - Interquartile range (IQR)  
@@ -73,7 +73,7 @@ The analysis includes:
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 - Predict raw material prices using time series models (ARIMA / LSTM)  
 - Identify substitution relationships between materials  
@@ -83,7 +83,7 @@ The analysis includes:
 
 ---
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 
 - Python  
 - Pandas  
@@ -93,11 +93,3 @@ The analysis includes:
 - Jupyter Notebook  
 
 ---
-
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/your-username/agricultural-raw-material-analysis
-cd agricultural-raw-material-analysis
-pip install -r requirements.txt
-jupyter notebook
